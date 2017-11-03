@@ -1,0 +1,253 @@
+.body-index {
+	/* Positioning */
+	margin-bottom: 150px;
+  
+	/* Typography */
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+	/* Visual */
+	background: url("../images/laptop.jpg"); 
+	color: #fff;
+
+	} 
+	
+	html {
+		/* Positioning */
+		position: relative;
+		
+		/* Box-model */
+		min-height: 100%; 
+
+		} 
+	
+	/*.navbar-custom {
+	background: url("../images/laptop.jpg");
+  }*/
+			
+		.navbar-right-custom {
+		/* Box-model */
+		padding-top: 6px;
+		padding-right: 20px;
+	
+		
+		/* Typography */
+		font-family: Arial;
+		font-weight: lighter;
+		}
+
+
+		.name {
+			text-align: center;
+			font-size: 100px;
+		}  
+
+		.sub-name { 
+			text-align: center;
+			padding-left: 90px;
+			font-size: 50px;
+		}
+
+	
+		/*About Me*/   
+
+		.navbar-right-custom-about {
+			background: url("../images/paint2.jpg");
+			padding: 200px;
+		} 
+
+		.container {
+			padding-top: 130px;
+		  }
+		 
+		
+		  .container {
+			position: absolute;
+			border-radius: 50%;
+			width: 100%;
+			max-width: 650px;
+			padding: 75px;
+			margin: 100px 300px 40px;
+			background: #ddd;
+			border: 1px solid #ddd;
+			color: #000000;
+		  } 
+
+		  .auth-image {
+			margin: 20px 190px;
+			width: 150px; 
+			height: 150px; 
+			border-radius: 50%; 
+		  }
+ /* animation*/ 
+ 
+#particles-js {
+	background: url("../images/paint.jpg"); 
+	height: 800px;
+} 
+
+/*skills */
+
+.body-skills {
+	background: url("../images/flower.jpg"); 
+}  
+
+.html5 {
+	height: 100px;
+	background: #fff;
+	margin: 20px;
+} 
+
+.css3 {
+	height: 100px;
+	background: #fff;
+	margin: 20px;
+} 
+
+.bootstrap {
+	height: 100px;	
+	margin: 20px;
+} 
+
+.github2 {
+	height: 100px;	
+	margin: 20px;
+	border-radius: 50%; 
+} 
+
+.express {
+	width: 200px;
+	height: 100px;	
+	margin: 20px;
+	padding-top: 20px;
+} 
+
+
+.javascript {
+	width: 150px;
+	height: 120px;	
+	margin: 20px;
+} 
+
+.jquery {
+	width: 150px;
+	height: 170px;	
+	margin: 20px;
+} 
+
+.mongo {
+	width: 300px;
+	height: 170px;	
+	margin: 20px;
+	padding-top: 30px;
+	margin-top: -20px;
+} 
+
+.mysql {
+	width: 250px;
+	height: 170px;	
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+} 
+
+.node {
+	width: 180px;
+	height: 170px;	
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+} 
+
+.react {
+	width: 180px;
+	height: 170px;	
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.container-skills { 
+	background: #FAEBD7;
+	width: 1300px; 
+	height: 400px; 
+	padding: 20px; 
+	margin-top: 100px;
+	border: 1px solid #fff;
+} 
+
+/*Projects*/ 
+.body-projects{
+	background: url("../images/flower.jpg");
+}
+
+.port-hr {
+width: 100px;
+padding: 45px 10px 25px 31px;
+
+/* Positioning */
+margin-top: 30px;
+margin-bottom: 200px;
+}
+
+.port-hr {
+margin-bottom: 40px;
+}
+
+.port-imgs {
+/* Box-model */
+width: 233px;
+height: 166px;
+margin-right: 15px;
+margin-left: 60px;
+
+/* Positioning */
+margin-bottom: 15px;
+} 
+
+
+/*contact*/ 
+.body-contact {
+	background: url("../images/flower.jpg");
+}   
+
+.container-contact { 
+	background: #FAEBD7;
+	width: 800px; 
+	height: 300px; 
+	padding: 20px; 
+	margin-left: 250px; 
+	margin-right: 200px;
+	margin-top: 100px;
+	border: 1px solid #000000;
+} 
+
+.h1-contact {
+	text-align: center;
+	color: #000000;
+}  
+
+h4 {
+	text-align: center; 
+	color: #000000;
+} 
+
+.connect-with-me-photo {
+	display: inline-block;
+	height: 40px; 
+	width: 40px;
+	background: white; 
+	margin-left: 350px;
+} 
+
+.connect-with-me-photo-linkedin {
+	display: inline-block;
+	height: 40px; 
+	width: 40px;
+	background: white; 
+} 
+
+
+
+  
+
+		
