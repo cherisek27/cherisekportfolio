@@ -1,4 +1,4 @@
-.body {
+body {
 	/* Positioning */
 	margin-bottom: 150px;
   
@@ -8,8 +8,7 @@
 	/* Visual */
 	background: url("../images/laptop.jpg"); 
 	color: #FF0000;
-
-	} 
+} 
 	
 	html {
 		/* Positioning */
