@@ -10,7 +10,8 @@
 	background-repeat: no-repeat; 
 	background-size: cover;
 	color: #FF0000;
-} 
+
+	} 
 	
 	html {
 		/* Positioning */
@@ -20,10 +21,6 @@
 		min-height: 100%; 
 
 		} 
-	
-	/*.navbar-custom {
-	background: url("../images/laptop.jpg");
-  }*/
 			
 		.navbar-right-custom {
 		/* Box-model */
@@ -53,6 +50,8 @@
 
 		.navbar-right-custom-about {
 			background: url("../images/paint2.jpg");
+			background-repeat: no-repeat; 
+			background-size: cover;
 			padding: 200px;
 		} 
 
@@ -83,6 +82,8 @@
  
 #particles-js {
 	background: url("../images/paint.jpg"); 
+	background-repeat: no-repeat; 
+	background-size: cover;
 	height: 800px;
 } 
 
@@ -90,6 +91,8 @@
 
 .body-skills {
 	background: url("../images/flower.jpg"); 
+	background-repeat: no-repeat; 
+	background-size: cover;
 }  
 
 .html5 {
@@ -208,7 +211,9 @@ margin-bottom: 15px;
 
 /*contact*/ 
 .body-contact {
-	background: url("../images/flower.jpg");
+	background: url("../images/flower.jpg"); 
+	background-repeat: no-repeat; 
+	background-size: cover;
 }   
 
 .container-contact { 
@@ -251,7 +256,8 @@ h4 {
 	.navbar-header {
 	  background-color: #fff;
 	}
-
+}
+  
 
 
   
