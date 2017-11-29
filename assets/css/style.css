@@ -7,6 +7,8 @@ body {
 
 	/* Visual */
 	background: url("../images/laptop.jpg"); 
+	background-repeat: no-repeat; 
+	background-size: cover;
 	color: #FF0000;
 } 
 	
@@ -243,7 +245,12 @@ h4 {
 	height: 40px; 
 	width: 40px;
 	background: white; 
-} 
+}  
+
+@media only screen and (max-width: 1400px) {
+	.navbar-header {
+	  background-color: #fff;
+	}
 
 
 
