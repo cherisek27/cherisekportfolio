@@ -265,11 +265,35 @@ h4 {
 	background: white; 
 }  
 
+@media only screen and (max-width: 2000px) {
+	.navbar-header {
+	  background-color: #fff;
+	}  
+	.container {
+		margin-left: 600px;
+		margin-right: 100px; 
+	}
+
+} 
+
 @media only screen and (max-width: 1400px) {
 	.navbar-header {
 	  background-color: #fff;
+	}  
+	.container {
+		margin-left: 300px;
+	}
+} 
+
+@media only screen and (max-width: 767px) {
+	.navbar-header {
+	  background-color: #fff;
+	}  
+	.container {
+		margin-left: 100px;
 	}
 }
+
   
 
 		
