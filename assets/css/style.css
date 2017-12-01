@@ -181,33 +181,44 @@
 
 /*Projects*/ 
 .body-projects{
-	background: url("../images/flower.jpg");
-}
+	background: url("../images/flower.jpg"); 
+} 
 
-.port-hr {
+/*.port-hr { 	
 width: 100px;
 padding: 45px 10px 25px 31px;
 
-/* Positioning */
+
 margin-top: 30px;
 margin-bottom: 200px;
 }
 
 .port-hr {
 margin-bottom: 40px;
-}
+} */
 
 .port-imgs {
-/* Box-model */
+float: left;
 width: 233px;
 height: 166px;
 margin-right: 15px;
 margin-left: 60px;
 
-/* Positioning */
 margin-bottom: 15px;
 } 
 
+.par { 
+	float: left;
+	width: 233px;
+	height: 166px;
+	margin-right: 15px;
+	margin-left: 60px;
+	
+	margin-bottom: 15px; 
+	font-size: 18px; 
+	font-weight: bold;
+	color: #fff;  
+}
 
 /*contact*/ 
 .body-contact {
@@ -258,7 +269,6 @@ h4 {
 	}
 }
   
-
 
   
 
