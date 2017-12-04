@@ -11,7 +11,7 @@
 	background-size: cover;
 	color: #FF0000;
 
-	} 
+	}  
 	
 	html {
 		/* Positioning */
@@ -19,14 +19,14 @@
 		
 		/* Box-model */
 		min-height: 100%; 
-		}   
+
+		}  
 
 		.navbar-collapse {
 			background: #000000;
 		}
 			
-			
-		.navbar-right-custom {
+		.navbar-right-custom {  
 		/* Box-model */
 		padding-top: 6px;
 		padding-right: 20px;
@@ -34,9 +34,9 @@
 		
 		/* Typography */
 		font-family: Arial;
-		font-weight: lighter;
-		}
-
+		font-weight: lighter;  
+		
+		} 
 
 		.name {
 			text-align: center;
@@ -57,8 +57,8 @@
 			background-repeat: no-repeat; 
 			background-size: cover;
 			padding: 200px;
-		} 
-
+		}   
+		
 		.container {
 			padding-top: 130px;
 		  }
@@ -71,9 +71,9 @@
 			max-width: 650px;
 			padding: 75px;
 			margin: 100px 300px 40px;
-			background: #ddd;
+			background: #f8f8ff;
 			border: 1px solid #ddd;
-			color: #000000;
+			color: #000000; 
 		  } 
 
 		  .auth-image {
@@ -94,7 +94,7 @@
 /*skills */
 
 .body-skills {
-	background: url("../images/flower.jpg"); 
+	background: url("../images/sunflower.jpg"); 
 	background-repeat: no-repeat; 
 	background-size: cover;
 }  
@@ -102,7 +102,7 @@
 .html5 {
 	height: 100px;
 	background: #fff;
-	margin: 20px;
+	margin: 20px; 
 } 
 
 .css3 {
@@ -175,19 +175,20 @@
 }
 
 .container-skills { 
-	background: #FAEBD7;
+	background: #f8f8ff;
 	width: 1300px; 
 	height: 400px; 
 	padding: 20px; 
 	margin-top: 100px;
 	border: 1px solid #fff;
+	opacity: 0.8;
 } 
 
 /*Projects*/ 
 .body-projects{
-	background: url("../images/flower.jpg"); 
+	background: url("../images/flower2.jpg"); 
 	background-repeat: no-repeat; 
-	background-size: cover;
+	background-size: cover;   
 } 
 
 /*.port-hr { 	
@@ -223,25 +224,26 @@ margin-bottom: 15px;
 	margin-bottom: 15px; 
 	font-size: 18px; 
 	font-weight: bold;
-	color: #fff;  
+	color: #B22222;
 }
 
 /*contact*/ 
 .body-contact {
-	background: url("../images/flower.jpg"); 
+	background: url("../images/sunflower.jpg"); 
 	background-repeat: no-repeat; 
 	background-size: cover;
 }   
 
 .container-contact { 
-	background: #FAEBD7;
+	background: #f8f8ff;
 	width: 800px; 
 	height: 300px; 
 	padding: 20px; 
 	margin-left: 250px; 
 	margin-right: 200px;
 	margin-top: 100px;
-	border: 1px solid #000000;
+	border: 1px solid #000000; 
+	opacity: 0.8;
 } 
 
 .h1-contact {
@@ -329,9 +331,8 @@ h4 {
 		background-size: cover;
 	}   
 	.wrap {
-		margin-left: 0px;
-		margin-right: 2px;
-	}  
+		text-align: center; 
+	}
 	.container-contact {
 		margin-left: 0px;
 		margin-right: 0px;
@@ -346,7 +347,3 @@ h4 {
 		background-size: cover;
 	}
 }
-
-  
-
-		
