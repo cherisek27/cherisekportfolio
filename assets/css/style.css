@@ -19,8 +19,12 @@
 		
 		/* Box-model */
 		min-height: 100%; 
+		}   
 
-		} 
+		.navbar-collapse {
+			background: #000000;
+		}
+			
 			
 		.navbar-right-custom {
 		/* Box-model */
