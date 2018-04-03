@@ -25,11 +25,6 @@
 
 		.navbar-collapse {
 			background: #000000;
-<<<<<<< HEAD
-			/* width: 1400px;  */
-=======
-			width: 1400px; 
->>>>>>> e68badf9defd5ae11e2469d12076e817fc8cc13f
 		} 
 			
 		.navbar-right-custom {  
@@ -189,7 +184,7 @@
 
 /*Projects*/ 
 .body-projects{
-	background: url("../images/test.jpeg"); 
+	background: url("../images/sunflower.jpg"); 
 	background-repeat: no-repeat; 
 	background-size: cover;   
 } 
