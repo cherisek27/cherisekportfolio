@@ -4,13 +4,13 @@
         "value": 80
       },
       "color": {
-        "value":"#faebd7"
+        "value":"#e5a3ad"
       }, 
       "shape":{
         "type":"circle",
         "stroke":{
           "width":1,
-          "color":"#faebd7"
+          "color":"#BC8F8F"
         }, 
         "opacity":{
           "value":0.5,
