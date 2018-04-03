@@ -68,11 +68,6 @@
 			padding: 200px;
 		}   
 		
-		.container {
-			padding-top: 130px;
-		  }
-		 
-		
 		  .container {
 			position: absolute;
 			width: 100%;
@@ -93,13 +88,12 @@
 		  }
  /* animation*/  
  
- 
 #particles-js {
-	background: url("../images/flower2.jpg"); 
+	background-image: url("../images/flower2.jpg"); 
 	background-repeat: no-repeat; 
 	background-size: cover;
-	height: 800px; 
-}  
+	height: 120vh;
+} 
 
 
 /*skills */
