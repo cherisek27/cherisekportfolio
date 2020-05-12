@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cherisekportfolio/static/css/main.3754b271.chunk.css",
+    "main.js": "/cherisekportfolio/static/js/main.e56bef91.chunk.js",
+    "main.js.map": "/cherisekportfolio/static/js/main.e56bef91.chunk.js.map",
+    "runtime-main.js": "/cherisekportfolio/static/js/runtime-main.1cc76ff9.js",
+    "runtime-main.js.map": "/cherisekportfolio/static/js/runtime-main.1cc76ff9.js.map",
+    "static/js/2.868fcade.chunk.js": "/cherisekportfolio/static/js/2.868fcade.chunk.js",
+    "static/js/2.868fcade.chunk.js.map": "/cherisekportfolio/static/js/2.868fcade.chunk.js.map",
+    "index.html": "/cherisekportfolio/index.html",
+    "precache-manifest.bdd7cd9defa33b383029234fcbdb0938.js": "/cherisekportfolio/precache-manifest.bdd7cd9defa33b383029234fcbdb0938.js",
+    "service-worker.js": "/cherisekportfolio/service-worker.js",
+    "static/css/main.3754b271.chunk.css.map": "/cherisekportfolio/static/css/main.3754b271.chunk.css.map",
+    "static/js/2.868fcade.chunk.js.LICENSE.txt": "/cherisekportfolio/static/js/2.868fcade.chunk.js.LICENSE.txt",
+    "static/media/iab.png": "/cherisekportfolio/static/media/iab.3e5b5b01.png",
+    "static/media/movie.png": "/cherisekportfolio/static/media/movie.29658021.png",
+    "static/media/profile-pic.jpg": "/cherisekportfolio/static/media/profile-pic.371572ca.jpg",
+    "static/media/verity.png": "/cherisekportfolio/static/media/verity.e414b30a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cc76ff9.js",
+    "static/js/2.868fcade.chunk.js",
+    "static/css/main.3754b271.chunk.css",
+    "static/js/main.e56bef91.chunk.js"
+  ]
+}
